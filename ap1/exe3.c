@@ -1,4 +1,5 @@
-#include <stdio.h>
+#include <stdio.h> //printf
+#include <stdlib.h> //srand, rand
 
 void paresNoVetor(int vetor[], int tamanho){
   int i, temPar=0;
@@ -21,6 +22,7 @@ void paresNoVetor(int vetor[], int tamanho){
 }
 
 void main(){
+  srand(time(NULL));//inicia o gerador aleatorio
 
   int v[]={0,2,4,6,8,10,12};
   paresNoVetor(v, sizeof(v)/sizeof(v[0]));
@@ -31,4 +33,10 @@ void main(){
   int x[]={1,3,5,7,9,11,13};
   paresNoVetor(x, sizeof(x)/sizeof(x[0]));
 
+  int i, n=7;
+  int z[n];
+  for(i=0; i < n; i++) {
+    z[i] = rand(); //gera um numero aleatorio
+  }
+  paresNoVetor(z, n);
 }
