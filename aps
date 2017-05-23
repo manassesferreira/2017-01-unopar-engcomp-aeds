@@ -54,12 +54,12 @@ AP4 	TemaIntrodução: Algoritmos recursivos em árvores binárias
 
 7) Implemente uma fila estática utilizando vetores.
 
-8) Implemente uma ABB utilizando um vetor com as seguintes operações:
+8) Implemente uma árvore binária de busca utilizando um vetor com as seguintes operações:
 	Inserção de nós
 	Impressão dos nós
 	Percurso pré ordem
 
-9) Implemente uma ABB com alocação dinâmica de memória contendo as seguintes operações:
+9) Implemente uma árvore binária de busca com alocação dinâmica de memória contendo as seguintes operações:
 	Inserção de nós
 	Exclusão de nós folhas 
 	Exclusão de nós com 1 (um) filho
