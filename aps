@@ -1,0 +1,58 @@
+# Temas e Exercícios dos Relatórios:
+
+Cada relatório de Aula Prática (AP) deve 
+	conter	os exercícios indicados (descritos abaixo) e
+	abordar os dois temas indicados abaixo.
+
+AP1 	TemaIntrodução: História da linguagem C
+	Exercícios: 1,2 e 3
+	TemaConclusão: Vantagens / desvantagens da linguagem C
+
+AP2 	TemaIntrodução: Alocação dinâmica de memória em C: o que faz o malloc?
+	Exercícios: 4 e 5
+	TemaConclusão: Ponteiros em C: o que são e para que servem?
+
+AP3 	TemaIntrodução: Algoritmos que utilizam as estruturas de dados pilha e fila
+	Exercícios: 6 e 7
+	TemaConclusão: Vantagens / desvantagens da alocação estática de memória em C
+
+AP4 	TemaIntrodução: Algoritmos recursivos em árvores binárias
+	Exercícios: 8 e 9
+	TemaConclusão: Percursos em Árvores Binárias: em ordem, pré-ordem e pós-ordem
+
+# Exercícios:
+
+1) Implementar um programa que contenha uma funçãoo 
+	que receba por parâmetro o raio (r) de uma esfera 
+	e calcule o volume (v = 4/3 * pi * r^3) dela.
+
+2) Implementar um programa que 
+	leia, do terminal, os elementos de um vetor de tamanho 10
+	e imprima este vetor de trás pra frente,
+	isto é, da última posição até a posição zero. 
+
+3) Implementar um programa com um vetor de 7 elementos. 
+	Ler o vetor informado pelo usuário.
+	Imprimir os elementos pares do vetor.
+
+4) Criar um programa que leia os elementos de uma matriz 4 x 4 e 
+	imprima somente os elementos da diagonal principal. 
+
+5) Desenvolver um programa que implemente um registro 
+	com as seguintes informaçõeses de 50 alunos: 
+	nome, matrícula e média final. 
+
+6) Implemente uma pilha dinâmica para armazenar caracteres.
+
+7) Implemente uma fila estática utilizando vetores.
+
+8) Implemente uma ABB utilizando um vetor com as seguintes operações:
+	Inserção de nós
+	Impressão dos nós
+	Percurso pré ordem
+
+9) Implemente uma ABB com alocação dinâmica de memória contendo as seguintes operações:
+	Inserção de nós
+	Exclusão de nós folhas 
+	Exclusão de nós com 1 (um) filho
+	Impressão dos nós
