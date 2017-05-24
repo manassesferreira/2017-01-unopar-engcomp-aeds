@@ -1,4 +1,5 @@
 #include <stdio.h> //printf
+#include <time.h> //time
 #include <stdlib.h> //srand, rand
 
 void paresNoVetor(int vetor[], int tamanho){
