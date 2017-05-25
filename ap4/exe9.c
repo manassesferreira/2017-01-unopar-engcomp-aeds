@@ -2,13 +2,13 @@
 *	Árvore Binária de Busca em C
 *	Kelvin Salton do Prado - 2015
 *
-*		   ( 6 )
+*            ( 6 )
 *	     /   \
 *	 ( 2 )   ( 7 )
-* 	 /   \		\
-*( 1 )   ( 4 )	( 8 )
-*		 /   \
-*	 ( 3 )	 ( 5 )
+* 	 /   \      \
+*     ( 1 ) ( 4 )  ( 8 )
+*                  /   \
+*               ( 3 )  ( 5 )
 */
 
 #include <stdio.h>
