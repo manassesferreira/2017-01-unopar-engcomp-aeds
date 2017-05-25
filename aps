@@ -28,6 +28,8 @@ AP4 	TemaIntrodução: Algoritmos recursivos em árvores binárias
 	Exercícios: 8 e 9
 	TemaConclusão: Percursos em Árvores Binárias: em ordem, pré-ordem e pós-ordem
 
+*** Os exercícios 10 e 11 valerão pontuação extra, caso entregues em qualquer relatório. ***
+
 # Exercícios:
 
 1) Implementar um programa que contenha uma funçãoo 
@@ -64,3 +66,7 @@ AP4 	TemaIntrodução: Algoritmos recursivos em árvores binárias
 	Exclusão de nós folhas 
 	Exclusão de nós com 1 (um) filho
 	Impressão dos nós
+	
+10) Implemente o algoritmo de Seleção Direta para ordenar em ordem decrescente um vetor de caracteres com 10 posições.
+
+11) Implemente o método de ordenação Bubble Sort para ordenar em ordem decrescente um vetor de caracteres com 8 posições.
