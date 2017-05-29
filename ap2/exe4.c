@@ -21,7 +21,7 @@
 #include <stdlib.h> //srand, rand
 
 #define m 4
-#define n 4
+#define n m
 
 int matriz[m][n]; //variável global: vivendo perigosamente
 
